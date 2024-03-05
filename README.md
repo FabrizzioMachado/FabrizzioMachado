@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @FabrizzioMachado
+- 👀 I’m interested in Back-end development, AI/Machine Learning and BioInformatics.
+- 🌱 I’m currently learning C#, C++, Rust and Assembly language.
+- 💞️ I’m looking to collaborate on anyone who has a project in mind about an app, a videogame or website.
+- 📫 You can find my online Computer Science academy on YouTube and soon on its own website. It's called "Cipheros".
+- ⚡ Fun fact: I'd like to get temporary wings modifying my genetics through BioInformatics. 🤯
